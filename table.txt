@@ -1,0 +1,2 @@
+for(nb=1; nb<=10; nb++)
+    console.log ("8 * " + nb + " = " +(8*nb)); 
